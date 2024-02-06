@@ -2420,3 +2420,9 @@ margin-bottom: 50px;
     width: 12px;
     background-color: hsl(36, 88%, 66%);
 }
+
+
+.mobile-list {
+    
+    display: none !important;
+}
