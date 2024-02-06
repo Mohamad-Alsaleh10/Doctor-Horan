@@ -1632,7 +1632,7 @@ line-height: normal;
 @media(max-width:768px){
     footer ul{
         /* flex-direction: column !important; */
-         gap: 10px;
+         gap: 24px !important;
  
    
         
